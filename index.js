@@ -1,6 +1,6 @@
 // Import packages
 const express = require("express");
-const home = require("./routes/home");
+const home = require("./routes/home (1)");
 
 // Middlewares
 const app = express();
